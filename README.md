@@ -1,1 +1,1 @@
-Instruction on starting git.
+Intoduction to GIT.
